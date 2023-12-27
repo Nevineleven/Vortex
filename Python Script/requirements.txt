@@ -1,0 +1,15 @@
+matplotlib
+numpy
+pandas
+opencv-python
+scikit-learn
+scikit-image
+keras
+tensorflow
+torch
+Pillow
+scipy
+statistics
+tqdm
+IPython
+ipykernel

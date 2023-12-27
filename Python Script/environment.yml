@@ -1,0 +1,28 @@
+name: my_env3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.8
+  - pip == 22.1.2
+  - cudnn=8.1.0
+  - cudatoolkit=11.8
+  - tensorflow-gpu=2.3
+  - ipykernel=6.25.0
+  - pip:
+    - opencv-contrib-python
+    - tensorflow==2.4.0
+    - keras==2.4.0
+    - torch
+    - numpy
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - scikit-learn
+    - scikit-image
+    - Pillow
+    - scipy
+    - statistics
+    - tqdm
+    - IPython
